@@ -1,0 +1,23 @@
+body {
+	box-sizing: border-box;
+	text-align: center;
+	background-color: #F79F81;
+}
+div{
+	display: inline-block;
+}
+.circulo{
+	width: 20rem;
+	height: 20rem;
+	border-radius: 50%;
+}
+.colorUno {
+	background-color: #E1E1E1;
+	
+}
+.colorDos {
+	background-color: #D998CC;
+}
+.colorTres {
+	background-color: #9388AA;
+}
